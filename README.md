@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=👋+Hey+There!+I'm+Ajit+Kumar+Saini;🚀+Building+skills+through+DSA+%26+Projects;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Hey+There!+I'm+Ajit+Kumar+Saini;Building+skills+through+DSA+and+Projects;Future+Software+Engineer" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ajitkumarsaini02&label=Profile%20Views&style=for-the-badge" />
