@@ -61,7 +61,7 @@ public:
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ## 🧠 DSA & Competitive Programming
