@@ -33,7 +33,7 @@ public:
     vector<string> languages  = {"C++", "Python", "JavaScript", "HTML", "CSS"};
     vector<string> tools      = {"Git", "GitHub", "VS Code"};
 
-    int leetcodeProblems = 290;
+    int leetcodeProblems = 300;
     int codechefProblems = 600;
 
     int leetcodeContests = 5;
@@ -70,34 +70,27 @@ public:
 
 | Platform    | Problems | Contests |
 | ----------- | -------- | -------- |
-| 🟡 LeetCode | 290+     | 5+       |
+| 🟡 LeetCode | 300+     | 5+       |
 | 🟤 CodeChef | 600+     | 20+      |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" height="35" /> GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajitkumarsaini02&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajitkumarsaini02&layout=compact&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajitkumarsaini02&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitkumarsaini02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajitkumarsaini02&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ajitkumarsaini02&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkumarsaini02&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
-
-<br/>
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=ajitkumarsaini02&theme=radical&no-frame=true&row=1&column=7&margin-w=15" /> -->
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkumarsaini02&theme=tokyo-night" />
+</p>
 
 ## 💻 Coding Profiles
 
