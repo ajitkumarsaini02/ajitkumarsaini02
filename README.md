@@ -115,21 +115,81 @@ public:
 </p>
 
 ---
+## 🌟 Featured Projects
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+---
+
+### 🎧 EchoStream Media Player (Main Project)
+
+A web-based music player with interactive controls and real-time audio handling.
+
+**🔧 Tech Stack:** HTML, CSS, JavaScript
+
+**✨ Features:**
+
+* Play / Pause music
+* Song switching
+* Dynamic progress bar
+* Responsive UI
+* Event-driven interactions
+
+**🔗 GitHub:**
+https://github.com/ajitkumarsaini02/EchoStream-Media-Player
+
+---
+
+### 🎵 Spotify UI Clone (Practice Project)
+
+A front-end clone focused on replicating Spotify’s layout and design.
+
+**🔧 Tech Stack:** HTML, CSS
+
+**✨ Features:**
+
+* Spotify-inspired UI
+* Responsive layout
+* Clean component structure
+
+**📌 Note:** Static UI clone (no backend or streaming functionality)
+
+**🔗 GitHub:**
+https://github.com/ajitkumarsaini02/spotify-clone
+
+---
 
 
 ## 🤝 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajit-kumar-saini-74340932b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
 
+  <a href="https://www.linkedin.com/in/ajit-kumar-saini-74340932b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
   <a href="mailto:ajitkumarsaini02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/ajitkumarsaini02">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  
 </p>
+
+---
+
+<div align="center">
+
+💬 Open to internships, collaborations, and learning opportunities
+
+</div>
 
 ---
 
@@ -147,12 +207,12 @@ public:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%" />
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" height="25" /> Crafted with passion by [Ajit Kumar Saini](https://github.com/theashutoshmishra) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" height="25" />**
-
-<p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buymeacoffee" />
 </p>
+
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" height="25" /> Crafted with passion by [Ajit Kumar Saini](https://github.com/ajitkumarsaini02) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" height="25" />**
 
 </div>
