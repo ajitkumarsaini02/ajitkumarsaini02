@@ -161,6 +161,10 @@ https://github.com/ajitkumarsaini02/spotify-clone
 ## 🤝 Connect With Me
 <p align="center">
 
+  <a href="https://ajit-kumar-saini-resume.netlify.app/">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/ajit-kumar-saini-74340932b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -173,11 +177,7 @@ https://github.com/ajitkumarsaini02/spotify-clone
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-  
-  <a href="#">
+  <a href="https://ajit-kumar-saini-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   
