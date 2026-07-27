@@ -92,6 +92,15 @@ public:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkumarsaini02&theme=tokyo-night" />
 </p>
 
+# 🐍 Snake Contribution Animation
+
+<div align="center">
+
+![Snake animation]((https://github.com/ajitkumarsaini02/ajitkumarsaini02/blob/main/github-contribution-grid-snake-dark.svg))
+
+</div>
+
+---
 ## 💻 Coding Profiles
 
 <p align="center">
