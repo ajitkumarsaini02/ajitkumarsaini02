@@ -28,25 +28,25 @@ public:
     string name     = "Ajit Kumar Saini";
     string location = "Uttar Pradesh, India 🇮🇳";
     string college  = "ABES Engineering College";
-    string degree   = "B.Tech CSE (2nd Year)";
+    string degree   = "B.Tech CSE (3nd Year)";
 
     vector<string> languages  = {"C++", "Python", "JavaScript", "HTML", "CSS"};
     vector<string> tools      = {"Git", "GitHub", "VS Code"};
 
-    int leetcodeProblems = 300;
+    int leetcodeProblems = 450;
     int codechefProblems = 600;
 
-    int leetcodeContests = 5;
-    int codechefContests = 20;
+    int leetcodeContests = 10;
+    int codechefContests = 25;
 
     string goal = "Crack top tech companies 🎯";
 };
 ```
 ### 🚀 Quick Highlights
 
-* 🎓 **B.Tech CSE (2nd Year)** at **ABES Engineering College**
-* 💻 **290+ LeetCode Problems** | **5+ Contests**
-* ⚡ **600+ CodeChef Problems** | **20+ Contests**
+* 🎓 **B.Tech CSE (3nd Year)** at **ABES Engineering College**
+* 💻 **290+ LeetCode Problems** | **10+ Contests**
+* ⚡ **600+ CodeChef Problems** | **25+ Contests**
 * 🌐 Learning **MERN Stack Development**
 * 🔧 Strong in **C++, JavaScript, Problem Solving**
 * 🎯 Goal: **Crack top tech companies**
@@ -70,8 +70,8 @@ public:
 
 | Platform    | Problems | Contests |
 | ----------- | -------- | -------- |
-| 🟡 LeetCode | 300+     | 5+       |
-| 🟤 CodeChef | 600+     | 20+      |
+| 🟡 LeetCode | 450+     | 10+       |
+| 🟤 CodeChef | 600+     | 25+      |
 
 </div>
 
