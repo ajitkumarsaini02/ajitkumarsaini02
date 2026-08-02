@@ -45,7 +45,7 @@ public:
 ### 🚀 Quick Highlights
 
 * 🎓 **B.Tech CSE (3nd Year)** at **ABES Engineering College**
-* 💻 **290+ LeetCode Problems** | **10+ Contests**
+* 💻 **450+ LeetCode Problems** | **10+ Contests**
 * ⚡ **600+ CodeChef Problems** | **25+ Contests**
 * 🌐 Learning **MERN Stack Development**
 * 🔧 Strong in **C++, JavaScript, Problem Solving**
@@ -92,13 +92,13 @@ public:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkumarsaini02&theme=tokyo-night" />
 </p>
 
-# 🐍 Snake Contribution Animation
+<!-- # 🐍 Snake Contribution Animation
 
 <div align="center">
 
 ![Snake animation]((https://github.com/ajitkumarsaini02/ajitkumarsaini02/blob/main/github-contribution-grid-snake-dark.svg))
 
-</div>
+</div> -->
 
 ---
 ## 💻 Coding Profiles
