@@ -77,7 +77,7 @@ public:
 
 <p align="center">
   <a href="https://leetcode.com/ajitkumarsaini02">
-    <img src="https://leetcard.jacoblin.cool/ajitkumarsaini02?theme=tokyonight&font=Fira%20Code&ext=activity" alt="Ajit's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ajitkumarsaini02?theme=tokyonight&font=Fira%20Code&ext=contest" alt="Ajit's LeetCode Contest Stats" />
   </a>
 </p>
 
@@ -115,6 +115,10 @@ public:
 
 <a href="https://leetcode.com/ajitkumarsaini02">
   <img src="https://img.shields.io/badge/LeetCode-502%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://leetcode.com/ajitkumarsaini02">
+  <img src="https://img.shields.io/badge/LeetCode_Rating-1527-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/users/ajitsaini94">
