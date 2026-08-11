@@ -28,12 +28,12 @@ public:
     string name     = "Ajit Kumar Saini";
     string location = "Uttar Pradesh, India 🇮🇳";
     string college  = "ABES Engineering College";
-    string degree   = "B.Tech CSE (3nd Year)";
+    string degree   = "B.Tech CSE (3rd Year)";
 
     vector<string> languages  = {"C++", "Python", "JavaScript", "HTML", "CSS"};
     vector<string> tools      = {"Git", "GitHub", "VS Code"};
 
-    int leetcodeProblems = 450;
+    int leetcodeProblems = 502;
     int codechefProblems = 600;
 
     int leetcodeContests = 10;
@@ -44,8 +44,8 @@ public:
 ```
 ### 🚀 Quick Highlights
 
-* 🎓 **B.Tech CSE (3nd Year)** at **ABES Engineering College**
-* 💻 **450+ LeetCode Problems** | **10+ Contests**
+* 🎓 **B.Tech CSE (3rd Year)** at **ABES Engineering College**
+* 💻 **502+ LeetCode Problems** | **10+ Contests**
 * ⚡ **600+ CodeChef Problems** | **25+ Contests**
 * 🌐 Learning **MERN Stack Development**
 * 🔧 Strong in **C++, JavaScript, Problem Solving**
@@ -70,18 +70,24 @@ public:
 
 | Platform    | Problems | Contests |
 | ----------- | -------- | -------- |
-| 🟡 LeetCode | 450+     | 10+       |
+| 🟡 LeetCode | 502+     | 10+       |
 | 🟤 CodeChef | 600+     | 25+      |
 
 </div>
+
+<p align="center">
+  <a href="https://leetcode.com/ajitkumarsaini02">
+    <img src="https://leetcard.jacoblin.cool/ajitkumarsaini02?theme=tokyonight&font=Fira%20Code&ext=activity" alt="Ajit's LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajitkumarsaini02&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajitkumarsaini02&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ajitkumarsaini02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ajitkumarsaini02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
@@ -89,16 +95,18 @@ public:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkumarsaini02&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkumarsaini02&theme=tokyo-night&hide_border=true" />
 </p>
 
-<!-- # 🐍 Snake Contribution Animation
+## 🐍 Contribution Graph Snake
 
-<div align="center">
-
-![Snake animation]((https://github.com/ajitkumarsaini02/ajitkumarsaini02/blob/main/github-contribution-grid-snake-dark.svg))
-
-</div> -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajitkumarsaini02/ajitkumarsaini02/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajitkumarsaini02/ajitkumarsaini02/output/github-contribution-grid-snake.svg">
+    <img alt="Ajit's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/ajitkumarsaini02/ajitkumarsaini02/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 ## 💻 Coding Profiles
@@ -106,7 +114,7 @@ public:
 <p align="center">
 
 <a href="https://leetcode.com/ajitkumarsaini02">
-  <img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-502%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/users/ajitsaini94">
