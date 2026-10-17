@@ -25,6 +25,23 @@ const pickNumber = (obj, paths) => {
   return null;
 };
 
+const countAttendedContests = (history) => {
+  if (!Array.isArray(history)) return null;
+  const attended = history.reduce((total, item) => {
+    if (item?.attended === true) return total + 1;
+    return total;
+  }, 0);
+  return attended > 0 ? attended : null;
+};
+
+const pickContestCountFromArrays = (obj, paths) => {
+  for (const path of paths) {
+    const value = getByPath(obj, path);
+    if (Array.isArray(value) && value.length > 0) return value.length;
+  }
+  return null;
+};
+
 const fetchLeetCodeStats = async () => {
   const query = `
     query getUserStats($username: String!) {
@@ -39,6 +56,9 @@ const fetchLeetCodeStats = async () => {
       userContestRanking(username: $username) {
         attendedContestsCount
         rating
+      }
+      userContestRankingHistory(username: $username) {
+        attended
       }
     }
   `;
@@ -56,7 +76,14 @@ const fetchLeetCodeStats = async () => {
   const totalSolved = numberFrom(
     allStats.find((item) => item?.difficulty === "All")?.count,
   );
-  const contests = numberFrom(data?.data?.userContestRanking?.attendedContestsCount);
+  const contestsFromRanking = numberFrom(data?.data?.userContestRanking?.attendedContestsCount);
+  const contestsFromHistory = countAttendedContests(data?.data?.userContestRankingHistory);
+  const contests =
+    contestsFromRanking == null
+      ? contestsFromHistory
+      : contestsFromHistory == null
+        ? contestsFromRanking
+        : Math.max(contestsFromRanking, contestsFromHistory);
   const ratingRaw = numberFrom(data?.data?.userContestRanking?.rating);
   const rating = ratingRaw == null ? null : Math.round(ratingRaw);
 
@@ -86,7 +113,20 @@ const fetchCodeChefStats = async () => {
     problems:
       solvedFromFullySolved ??
       pickNumber(data, ["problemsSolved", "totalProblemsSolved", "total_solved"]),
-    contests: pickNumber(data, ["contestCount", "contests", "totalContests", "contest_count"]),
+    contests:
+      pickNumber(data, [
+        "contestCount",
+        "contests",
+        "totalContests",
+        "contest_count",
+        "userDetails.contestCount",
+      ]) ??
+      pickContestCountFromArrays(data, [
+        "contests",
+        "contestData",
+        "contestHistory",
+        "contest_history",
+      ]),
   };
 };
 
