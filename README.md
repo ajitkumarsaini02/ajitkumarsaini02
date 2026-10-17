@@ -30,7 +30,7 @@ public:
     string college  = "ABES Engineering College";
     string degree   = "B.Tech CSE (3rd Year)";
 
-    vector<string> languages  = {"C++", "Python", "JavaScript", "HTML", "CSS"};
+    vector<string> languages  = {"C++", "Python", "Java", "JavaScript", "HTML", "CSS"};
     vector<string> tools      = {"Git", "GitHub", "VS Code"};
 
     string goal = "Crack top tech companies 🎯";
@@ -63,8 +63,8 @@ public:
 
 | Platform    | Problems | Contests |
 | ----------- | -------- | -------- |
-| 🟡 LeetCode | <!--LEETCODE_PROBLEMS-->502<!--/LEETCODE_PROBLEMS--> | <!--LEETCODE_CONTESTS-->10<!--/LEETCODE_CONTESTS--> |
-| 🟤 CodeChef | <!--CODECHEF_PROBLEMS-->600<!--/CODECHEF_PROBLEMS--> | <!--CODECHEF_CONTESTS-->25<!--/CODECHEF_CONTESTS--> |
+| 🟡 LeetCode | <!--LEETCODE_PROBLEMS-->680<!--/LEETCODE_PROBLEMS--> | <!--LEETCODE_CONTESTS-->25+<!--/LEETCODE_CONTESTS--> |
+| 🟤 CodeChef | <!--CODECHEF_PROBLEMS-->600<!--/CODECHEF_PROBLEMS--> | <!--CODECHEF_CONTESTS-->35+<!--/CODECHEF_CONTESTS--> |
 
 </div>
 
@@ -129,7 +129,7 @@ public:
 
 ---
 
-### 🎧 EchoStream Media Player (Main Project)
+### 🎧 EchoStream Media Player
 
 A web-based music player with interactive controls and real-time audio handling.
 
@@ -148,7 +148,7 @@ https://github.com/ajitkumarsaini02/EchoStream-Media-Player
 
 ---
 
-### 🎵 Spotify UI Clone (Practice Project)
+### 🎵 Spotify UI Clone
 
 A front-end clone focused on replicating Spotify’s layout and design.
 
