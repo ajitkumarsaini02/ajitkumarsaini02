@@ -33,20 +33,13 @@ public:
     vector<string> languages  = {"C++", "Python", "JavaScript", "HTML", "CSS"};
     vector<string> tools      = {"Git", "GitHub", "VS Code"};
 
-    int leetcodeProblems = 502;
-    int codechefProblems = 600;
-
-    int leetcodeContests = 10;
-    int codechefContests = 25;
-
     string goal = "Crack top tech companies 🎯";
 };
 ```
 ### 🚀 Quick Highlights
 
 * 🎓 **B.Tech CSE (3rd Year)** at **ABES Engineering College**
-* 💻 **502+ LeetCode Problems** | **10+ Contests**
-* ⚡ **600+ CodeChef Problems** | **25+ Contests**
+* 💻 Active on **LeetCode** and **CodeChef**
 * 🌐 Learning **MERN Stack Development**
 * 🔧 Strong in **C++, JavaScript, Problem Solving**
 * 🎯 Goal: **Crack top tech companies**
@@ -70,8 +63,8 @@ public:
 
 | Platform    | Problems | Contests |
 | ----------- | -------- | -------- |
-| 🟡 LeetCode | 502+     | 10+       |
-| 🟤 CodeChef | 600+     | 25+      |
+| 🟡 LeetCode | <!--LEETCODE_PROBLEMS-->502<!--/LEETCODE_PROBLEMS--> | <!--LEETCODE_CONTESTS-->10<!--/LEETCODE_CONTESTS--> |
+| 🟤 CodeChef | <!--CODECHEF_PROBLEMS-->600<!--/CODECHEF_PROBLEMS--> | <!--CODECHEF_CONTESTS-->25<!--/CODECHEF_CONTESTS--> |
 
 </div>
 
@@ -114,15 +107,11 @@ public:
 <p align="center">
 
 <a href="https://leetcode.com/ajitkumarsaini02">
-  <img src="https://img.shields.io/badge/LeetCode-502%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://leetcode.com/ajitkumarsaini02">
   <img src="https://img.shields.io/badge/LeetCode_Rating-1527-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/users/ajitsaini94">
-  <img src="https://img.shields.io/badge/CodeChef-600%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef_Profile-View-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/ajitkumarsaini02">
