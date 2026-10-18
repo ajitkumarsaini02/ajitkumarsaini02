@@ -63,7 +63,7 @@ public:
 
 | Platform    | Problems | Contests |
 | ----------- | -------- | -------- |
-| 🟡 LeetCode | <!--LEETCODE_PROBLEMS-->680<!--/LEETCODE_PROBLEMS--> | <!--LEETCODE_CONTESTS-->25+<!--/LEETCODE_CONTESTS--> |
+| 🟡 LeetCode | <!--LEETCODE_PROBLEMS-->680<!--/LEETCODE_PROBLEMS--> | <!--LEETCODE_CONTESTS-->24<!--/LEETCODE_CONTESTS--> |
 | 🟤 CodeChef | <!--CODECHEF_PROBLEMS-->600<!--/CODECHEF_PROBLEMS--> | <!--CODECHEF_CONTESTS-->35+<!--/CODECHEF_CONTESTS--> |
 
 </div>
@@ -107,7 +107,7 @@ public:
 <p align="center">
 
 <a href="https://leetcode.com/ajitkumarsaini02">
-  <img src="https://img.shields.io/badge/LeetCode_Rating-1527-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode_Rating-1674-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/users/ajitsaini94">
