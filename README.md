@@ -63,7 +63,7 @@ public:
 
 | Platform    | Problems | Contests |
 | ----------- | -------- | -------- |
-| 🟡 LeetCode | <!--LEETCODE_PROBLEMS-->689<!--/LEETCODE_PROBLEMS--> | <!--LEETCODE_CONTESTS-->24<!--/LEETCODE_CONTESTS--> |
+| 🟡 LeetCode | <!--LEETCODE_PROBLEMS-->691<!--/LEETCODE_PROBLEMS--> | <!--LEETCODE_CONTESTS-->24<!--/LEETCODE_CONTESTS--> |
 | 🟤 CodeChef | <!--CODECHEF_PROBLEMS-->600<!--/CODECHEF_PROBLEMS--> | <!--CODECHEF_CONTESTS-->35+<!--/CODECHEF_CONTESTS--> |
 
 </div>
