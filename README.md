@@ -129,10 +129,10 @@ const ajit = {
 
 | Platform | Solved Problems | Rating / Level | Profile Link |
 | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="18" height="18" /> **LeetCode** | **690+** Problems | **1664 Rating** *(Peak: 1679, Top 17%)* | [View Profile](https://leetcode.com/u/ajitkumarsaini02) |
-| <img src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-2-pack-logos-icons-3029995.png" width="18" height="18" /> **CodeChef** | **680+** Problems | **2-Star (★★)** *(Rating: 1455, Peak: 1461)* | [View Profile](https://www.codechef.com/users/ajitsaini94) |
-| <img src="https://assets.leetcode.com/users/images/96a603df-fa1d-40ba-8b83-a0eef9d66e77_1678121651.989399.png" width="18" height="18" /> **Codeforces** | **26+** Problems | **Rating: 668** | [View Profile](https://codeforces.com/profile/ajitkumarsaini02) |
-| <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png" width="18" height="18" /> **GeeksforGeeks** | **89+** Problems | Active Practice | [View Profile](https://www.geeksforgeeks.org/profile/ajitkumarsaini02?tab=activity) |
+| <img src="https://cdn.simpleicons.org/leetcode" width="20" height="20" /> **LeetCode** | **690+** Problems | **1664 Rating** *(Peak: 1679, Top 17%)* | [View Profile](https://leetcode.com/u/ajitkumarsaini02) |
+| <img src="https://cdn.simpleicons.org/codechef/white" width="20" height="20" /> **CodeChef** | **680+** Problems | **2-Star (★★)** *(Rating: 1455, Peak: 1461)* | [View Profile](https://www.codechef.com/users/ajitsaini94) |
+| <img src="https://cdn.simpleicons.org/codeforces" width="20" height="20" /> **Codeforces** | **26+** Problems | **Rating: 668** | [View Profile](https://codeforces.com/profile/ajitkumarsaini02) |
+| <img src="https://cdn.simpleicons.org/geeksforgeeks" width="20" height="20" /> **GeeksforGeeks** | **89+** Problems | Active Practice | [View Profile](https://www.geeksforgeeks.org/profile/ajitkumarsaini02?tab=activity) |
 
 </div>
 
